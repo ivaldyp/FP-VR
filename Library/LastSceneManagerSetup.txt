@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/MyProjects/Scenes/FPMain.unity
+  isLoaded: 1
+  isActive: 1
